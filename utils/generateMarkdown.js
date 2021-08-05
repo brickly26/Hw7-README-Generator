@@ -41,8 +41,7 @@ ${data.acknowledgment}
 
 ## Questions
 
-- Check my GitHub [${data.github}](https://github.com/${data.github})
-- If you have any quetions don't hesitate to email at ${data.email}
+If you have any quetions you can contact me on [github](https://github.com/${data.github}) or shoot me an email at ${data.email}.
 `;
 }
 
