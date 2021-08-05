@@ -2,7 +2,7 @@
   
 ## Description
 
-this program generats readme files
+this program generates readme files based on user input
 
 ## Licensing
 
@@ -19,11 +19,11 @@ this program generats readme files
 
 ## Installation
 
-clone from github
+clone my github repo
 
 ## Usage
 
-node index then answer prompts
+type node index in terminal and answer prompts
 
 ## Contributing
 
@@ -35,9 +35,8 @@ test
 
 ## Acknowledgments
 
-brickly26 (aka me)
+brickly26 aka me
 
 ## Questions
 
-- Check my GitHub [brickly26](https://github.com/brickly26)
-- If you have any quetions don't hesitate to email at sabburak26@gmail.com
+If you have any quetions you can contact me on [github](https://github.com/brickly26) or shoot me an email at sabburak26@gmail.com.
